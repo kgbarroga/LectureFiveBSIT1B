@@ -87,8 +87,8 @@ public class App {
         /**
          * Initialize an Object from the Test Class
          */
-        Test newTest = new Test();
-        Test Test = new Test();
+        // Test newTest = new Test();
+        // Test Test = new Test();
         
     }
 }

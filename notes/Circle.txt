@@ -1,0 +1,8 @@
+Create a Circle Class
+-radius
+-pi=3.14
+-diameter
+-circumference
+-area
+
+Creat a method for computing circumference and area
